@@ -1,0 +1,21 @@
+[submodule "mozilla"]
+	path = mozilla
+	url = git@github.com:thor314/mozilla.git
+[submodule "htmx"]
+	path = htmx
+	url = git@github.com:thor314/htmx.git
+[submodule "rocket-examples"]
+	path = rocket-examples
+	url = git@github.com:thor314/rocket-examples.git
+[submodule "mdx"]
+	path = mdx
+	url = git@github.com:thor314/mdx.git
+[submodule "nblog"]
+	path = nblog
+	url = git@github.com:thor314/nblog.git
+[submodule "fementor1"]
+	path = fementor1
+	url = git@github.com:thor314/fementor1.git
+[submodule "hello_ts"]
+	path = hello_ts
+	url = git@github.com:thor314/hello_ts.git
